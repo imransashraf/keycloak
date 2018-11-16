@@ -29,9 +29,9 @@
     <artifactId>keycloak-testsuite-tomcat8</artifactId>
     <name>Keycloak Tomcat 8 Integration TestSuite</name>
     <properties>
-        <tomcat.version>8.0.14</tomcat.version>
+        <tomcat.version>8.0.17</tomcat.version>
     </properties>
-    <description />
+    <description/>
 
    <dependencies>
         <dependency>
@@ -237,7 +237,7 @@
        <dependency>
            <groupId>io.undertow.jastow</groupId>
            <artifactId>jastow</artifactId>
-           <version>2.0.0.Final</version>
+           <version>2.1.0.Final</version>
        </dependency>
    </dependencies>
     <build>
