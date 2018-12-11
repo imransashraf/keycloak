@@ -32,18 +32,18 @@
         <!--<tomcat.version>8.0.14</tomcat.version>-->
         <tomcat.version>7.0.59</tomcat.version>
     </properties>
-    <description />
+    <description/>
 
    <dependencies>
        <dependency>
            <groupId>org.apache.tomcat</groupId>
            <artifactId>tomcat-catalina</artifactId>
-           <version>7.0.59</version>
+           <version>7.0.90</version>
        </dependency>
        <dependency>
            <groupId>org.apache.tomcat</groupId>
            <artifactId>tomcat-util</artifactId>
-           <version>7.0.59</version>
+           <version>7.0.68</version>
        </dependency>
        <dependency>
            <groupId>org.apache.tomcat.embed</groupId>
