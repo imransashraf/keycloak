@@ -29,13 +29,13 @@
 	<artifactId>keycloak-dependencies-server-all</artifactId>
     <packaging>pom</packaging>
     <name>Keycloak Dependencies Server All</name>
-	<description />
+	<description/>
 
     <properties>
         <!-- Drools dependencies versions -->
         <version.org.eclipse.sisu>0.3.0.M1</version.org.eclipse.sisu>
         <version.org.eclipse.aether>1.0.0.v20140518</version.org.eclipse.aether>
-        <version.org.apache.ant>1.8.3</version.org.apache.ant>
+        <version.org.apache.ant>1.10.9</version.org.apache.ant>
         <version.org.antlr>3.5</version.org.antlr>
         <version.aopalliance>1.0</version.aopalliance>
         <version.org.apache.maven>3.2.5</version.org.apache.maven>
