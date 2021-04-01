@@ -29,7 +29,7 @@
 	<artifactId>keycloak-dependencies-server-all</artifactId>
     <packaging>pom</packaging>
     <name>Keycloak Dependencies Server All</name>
-	<description />
+	<description/>
 
     <properties>
         <!-- Drools dependencies versions -->
@@ -47,7 +47,7 @@
         <version.org.codehaus.plexus.plexus-sec-dispatcher>1.3</version.org.codehaus.plexus.plexus-sec-dispatcher>
         <version.org.codehaus.plexus.plexus-utils>3.0.20</version.org.codehaus.plexus.plexus-utils>
         <version.org.apache.maven.wagon>2.6</version.org.apache.maven.wagon>
-        <version.com.thoughtworks.xstream>1.4.7</version.com.thoughtworks.xstream>
+        <version.com.thoughtworks.xstream>1.4.16</version.com.thoughtworks.xstream>
         <version.com.google.guava>13.0.1</version.com.google.guava>
         <version.org.eclipse.jdt.core.compiler>4.4.2</version.org.eclipse.jdt.core.compiler>
         <version.com.lowagie>2.1.2</version.com.lowagie>
