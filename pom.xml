@@ -49,7 +49,7 @@
         <apache.httpcomponents.version>4.5</apache.httpcomponents.version>
         <apache.httpcomponents.httpcore.version>4.4.1</apache.httpcomponents.httpcore.version>
         <apache.mime4j.version>0.6</apache.mime4j.version>
-        <bouncycastle.version>1.52</bouncycastle.version>
+        <bouncycastle.version>1.66</bouncycastle.version>
         <cxf.version>3.1.5</cxf.version>
         <dom4j.version>1.6.1</dom4j.version>
         <github.relaxng.version>2011.1</github.relaxng.version>
