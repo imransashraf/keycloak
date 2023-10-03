@@ -67,7 +67,7 @@
         <jboss.spec.javax.xml.bind.jboss-jaxb-api_2.2_spec.version>1.0.4.Final</jboss.spec.javax.xml.bind.jboss-jaxb-api_2.2_spec.version>
         <log4j.version>1.2.16</log4j.version>
         <resteasy.version>3.0.14.Final</resteasy.version>
-        <slf4j.version>1.7.7</slf4j.version>
+        <slf4j.version>1.7.34</slf4j.version>
         <sun.istack.version>2.21</sun.istack.version>
         <sun.jaxb.version>2.2.11</sun.jaxb.version>
         <sun.xsom.version>20140925</sun.xsom.version>
@@ -80,7 +80,7 @@
         <version.org.drools>6.4.0.Final</version.org.drools>
 
         <!-- Others -->
-        <apacheds.version>2.0.0-M17</apacheds.version>
+        <apacheds.version>2.0.0.AM25</apacheds.version>
         <apacheds.codec.version>1.0.0-M23</apacheds.codec.version>
         <google.zxing.version>3.2.1</google.zxing.version>
         <freemarker.version>2.3.23</freemarker.version>
