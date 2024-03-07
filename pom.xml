@@ -43,7 +43,7 @@
         <!-- WildFly -->
         <eap.version>7.0.0.Beta</eap.version>
         <jboss.as.version>7.2.0.Final</jboss.as.version>
-        <wildfly.version>10.0.0.Final</wildfly.version>
+        <wildfly.version>11.0.0.Final</wildfly.version>
 
         <aesh.version>0.66.4</aesh.version>
         <apache.httpcomponents.version>4.5</apache.httpcomponents.version>
